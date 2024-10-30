@@ -27,7 +27,7 @@ Hãy chắc chắn rằng bạn đã cài đặt **Node.js** và **npm** trên m
 
 1. **Clone kho lưu trữ:**
    ```bash
-   git clone https://github.com/JrDevProgect/NGL-Spammer.git
+   git clone https://github.com/kenjiakira/NGL-SPAM.git
    cd NGL-Spammer
    ```
 
